@@ -7,7 +7,7 @@ Update #1: Thanks to /u/robojumper and /u/temporarymctempton for reading this an
 
 I have only ever created the three accounts on Reddit: Barca, then the Buzzword and Zen Bot accts, both of which only read and post to /r/Buttcoin and /r/testingground4bots when testing, never elsewhere. I only use the Barca account for personal posts, 99% of which are on Buttcoin. I sub to/read some of the cryptocurrency subs but I try hard to never post on them.
 
-The bots' User-Agent: ID has the Barca account info as does every post. I went to great lengths to register all three accounts legitimately, wrote the bots to all Reddit standards, got permission from the Buttcoin mods for both bots (which they put on an approved list. Never used Tor nor tried to mask who I am.
+The bots' User-Agent: ID has the Barca account info as does every post. I went to great lengths to register all three accounts legitimately, wrote the bots to all Reddit standards, got permission from the Buttcoin mods for both bots (which they put on an approved list.) Never used Tor nor tried to mask who I am.
 
 I check my inbox at least once a day, and did not see any attempt to contact me before the ban.  In the BarcaloungerJockey mailbox, the last message before the ban was:
 
