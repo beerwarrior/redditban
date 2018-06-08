@@ -27,7 +27,7 @@ This could certainly be what the problem was and I'm kicking myself for even log
 
 > Can you check if this applies to ZenMasterBot and BuzzwordBingoBot as well? Maybe one of them was banned and your main account triggered the suspension?
 
-Looking at /u/ZenMasterBot, which was also banned, there was an issue about a month ago when /u/jstolfi had gilded the bot account with tippr, which sent it a message. ZenBot is set up to send a random, short reply to anything that comes to the inbox, and the two bots got into a back-n-forth reply loop. Fortunately I caught this fairly quickly and immediately halted the both and added code to prevent auto-replies going out to known bots, Reddit admin/staff, etc. It hasn't been an issue since and figured the admins would contact me if it was.
+Looking at /u/ZenMasterBot, which was also banned, there was an issue about a month ago when /u/jstolfi had gilded the bot account with tippr, which sent it a message. ZenBot is set up to send a random, short reply to anything that comes to the inbox, and the two bots got into a back-n-forth reply loop. Fortunately I caught this fairly quickly and immediately halted the bot and added code to prevent auto-replies going out to known bots, Reddit admin/staff, etc. It hasn't been an issue since and figured the admins would contact me if it was.
 
 The last user message to Zenny was:
 
