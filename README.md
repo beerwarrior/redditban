@@ -15,3 +15,5 @@ I don't know if others contacting the admins can help or just make things worse?
 I'm waiting for if/when I get a reply on the appeal. I'll check the thread posted on /r/Buttcoin periodically for feedback & advice. It's a shame this mistake has happened and hopefully I can get my account/ZenBot restored but Reddit's not a super-high priority TBH.
 
 Thanks for all the kinds words and support. Cheers!
+
+P.S. I won't be creating another account, using Tor, etc. to try to evade the ban. I'd rather work it out with the admins and it's not my thing to bypass rules.
