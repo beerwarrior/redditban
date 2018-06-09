@@ -72,3 +72,12 @@ I'm waiting for if/when I get a reply on the appeal. I'll check the thread poste
 Thanks for all the kinds words and support. Cheers!
 
 P.S. I won't be creating another account, using Tor, etc. to try to evade the ban. I'd rather work it out with the admins and it's not my thing to bypass rules.
+
+-----
+
+Hi, This is @beerwarrior. You got caught up in this through me and biglambdabot. I've sent a message to the Reddit admins to try to settle the confusion. biglambdabot might not be saved, but hopefully your other accounts can be.
+
+Sorry for the mess. Keep on bottin'.
+
+Cheers,
+BW
